@@ -24,6 +24,18 @@ $(document).ready(function() {
   $("#again1").click(function(){
     $(".jsresult").hide();
     $(".main").show();
-  })
+  });
+  $("#again2").click(function(){
+    $(".csharpresult").hide();
+    $(".main").show();
+  });
+  $("#again3").click(function(){
+    $(".rubyresult").hide();
+    $(".main").show();
+  });
+  $("#again4").click(function(){
+    $(".confusedresult").hide();
+    $(".main").show();
+  });
 });
 
