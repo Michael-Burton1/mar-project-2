@@ -8,20 +8,20 @@
   <title>Choose a computer language</title>
 </head>
 <body>
+  <img class="mainimg" src="img/complang.jpg" alt="a picture of computer code">
   <div class="container">
     <div class="main">
-      <img class="mainimg" src="img/complang.jpg" alt="a picture of computer code">
-      <h1> Choosing a computer language:</h1>
+      <h1 class="col-12"> Choosing a computer language:</h1>
       <p>So.... you are getting ready to learn how to code , but you are not sure which language you would like to learn.<br>No worries! We can help. <br>Just take our short little survey and we will show you which computer language is right for you. </p>
       <div>
         <form id="formOne">
-          <h3>First enter your date of birth:</h3>
+          <h3>First enter your date of birth<span class="star">*</span></h3>
           <p>This is important because you might be too old to code. There is an age limit</p>
           <div class="form-group">
             <label for="born"></label>
             <input id="born" class="form-control" type="date">
           </div>
-          <h3>How would you rather spend your time: </h3>
+          <h3>How would you rather spend your time<span class="star">*</span> </h3>
           <select class="form-control" id="qOne">
             <option></option>
             <option value="1">Framing a house</option>
@@ -29,7 +29,7 @@
             <option value="3">coordinating an outfit</option>
             <option value="4">Pulling your hair out</option>
           </select>
-          <h3>When thinking about coding you</h3>
+          <h3>When thinking about coding you<span class="star">*</span></h3>
           <select class="form-control" id="qTwo">
             <option></option>
             <option value="1">are genuinly excited to tackle a big problem (like a psyco)</option>
@@ -37,7 +37,7 @@
             <option value="3"> are completly apathetic. You literally couldn't care less</option>
             <option value="4">immediatly run fully clothed into the bathroom to have a nice shower cry</option>
           </select>
-          <h3>What is your fav breakfast food</h3>
+          <h3>What is your fav breakfast food<span class="star">*</span></h3>
           <select class="form-control" id="qThree">
             <option></option>
             <option value="1">eggs and bacon</option>
@@ -45,7 +45,7 @@
             <option value="3">Breakfast burrito</option>
             <option value="4">Bottomless Bloody Mary</option>
           </select>
-          <h3>Speaking of food...I totally left my sandwhich here. Did you see it?</h3>
+          <h3>Speaking of food...I totally left my sandwhich here. Did you see it?<span class="star">*</span></h3>
           <select class="form-control" id="qFour" required>
             <option></option>
             <option value="1">No, sorry I have not seen it, good luck though.</option>
@@ -95,6 +95,7 @@
           <button type="button" value="Reset" class="btn btn-primary" id="again4">I can be a better person!</button>
         </div>
       </div>
+      <p>Required<span class="star">*</span></p>>
   </div>    
 </body>
 </html>

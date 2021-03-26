@@ -2,16 +2,17 @@ body {
   background-color: teal;
 }
 .mainimg{
-  width:80%;
-  height: auto;
+  width:100%;
+  height:min-content;
 }
 .jsresult, .csharpresult, .rubyresult, .confusedresult {
   display:none;
 }
 
-.main h1 {
+h1 {
+  background-color: orange;
   padding-bottom:10px;
-  border-bottom: solid 5px orange;
+  border: solid 5px black;
   margin-bottom: 15px;
 }
 #formOne {
@@ -21,4 +22,9 @@ body {
 
 .form-control {
   margin-bottom: 50px;
+}
+
+.star {
+  color:red;
+  font-size:xx-large;
 }
