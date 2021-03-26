@@ -20,4 +20,10 @@ $(document).ready(function() {
       $(".confusedresult").show();
     }
   });
+
+  $("#again1").click(function(){
+    $(".jsresult").hide();
+    $(".main").show();
+  })
 });
+
