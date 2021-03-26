@@ -1,0 +1,176 @@
+
+Initialized empty Git repository in /Users/michaelburton/Desktop/mar-project-2/.git/
+michaelburton@Michaels-MacBook-Pro mar-project-2 % git  add .
+michaelburton@Michaels-MacBook-Pro mar-project-2 % git commit -m "add html file
+dquote> git add .
+dquote> git commit -m "add all other blank files to project"
+dquote> git add .
+dquote> git commit -m "add basic html with form"
+dquote> git add .
+dquote> git commit -m " add for-group to html and submit funtion to scripts"
+dquote> git add .
+dquote> git commit-m "wip trying to console log submit function"
+dquote> git add .
+dquote> git commit -m "add slect boxes and questions to form"
+dquote> git add .
+dquote> git commit -m " add README file info"
+dquote> git add .
+dquote> git commit "add licensing info to license file"
+dquote> git add .
+dquote> git commit -m "add result divs to html"
+dquote> git add .
+dquote> git commit -m "add files to img folder"
+dquote> git add .
+dquote> git commit -m " added image links to each result in html"
+dquote> git add .
+dquote> git commit -m "add try again buttons to reset the form for each result"
+dquote> git add . 
+dquote> git commit -m "add to submit function to get a value for quest5Ans"
+dquote> git add .
+dquote> git commit -m  "WIP: try to add show functions for each result for quest5Ans" 
+dquote> git add .
+dquote>git add . t  m    d    w        n   r              
+dquote> git status
+dquote> "
+error: pathspec 'all' did not match any file(s) known to git
+error: pathspec 'other' did not match any file(s) known to git
+error: pathspec 'blank' did not match any file(s) known to git
+error: pathspec 'files' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'project
+git add .
+git commit -m add' did not match any file(s) known to git
+error: pathspec 'basic' did not match any file(s) known to git
+error: pathspec 'html' did not match any file(s) known to git
+error: pathspec 'with' did not match any file(s) known to git
+error: pathspec 'form
+git add .
+git commit -m ' did not match any file(s) known to git
+error: pathspec 'add' did not match any file(s) known to git
+error: pathspec 'for-group' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'html' did not match any file(s) known to git
+error: pathspec 'and' did not match any file(s) known to git
+error: pathspec 'submit' did not match any file(s) known to git
+error: pathspec 'funtion' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'scripts
+git add .
+git commit-m wip' did not match any file(s) known to git
+error: pathspec 'trying' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'console' did not match any file(s) known to git
+error: pathspec 'log' did not match any file(s) known to git
+error: pathspec 'submit' did not match any file(s) known to git
+error: pathspec 'function
+git add .
+git commit -m add' did not match any file(s) known to git
+error: pathspec 'slect' did not match any file(s) known to git
+error: pathspec 'boxes' did not match any file(s) known to git
+error: pathspec 'and' did not match any file(s) known to git
+error: pathspec 'questions' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'form
+git add .
+git commit -m ' did not match any file(s) known to git
+error: pathspec 'add' did not match any file(s) known to git
+error: pathspec 'README' did not match any file(s) known to git
+error: pathspec 'file' did not match any file(s) known to git
+error: pathspec 'info
+git add .
+git commit add' did not match any file(s) known to git
+error: pathspec 'licensing' did not match any file(s) known to git
+error: pathspec 'info' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'license' did not match any file(s) known to git
+error: pathspec 'file
+git add .
+git commit -m add' did not match any file(s) known to git
+error: pathspec 'result' did not match any file(s) known to git
+error: pathspec 'divs' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'html
+git add .
+git commit -m add' did not match any file(s) known to git
+error: pathspec 'files' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'img' did not match any file(s) known to git
+error: pathspec 'folder
+git add .
+git commit -m ' did not match any file(s) known to git
+error: pathspec 'added' did not match any file(s) known to git
+error: pathspec 'image' did not match any file(s) known to git
+error: pathspec 'links' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'each' did not match any file(s) known to git
+error: pathspec 'result' did not match any file(s) known to git
+error: pathspec 'in' did not match any file(s) known to git
+error: pathspec 'html
+git add .
+git commit -m add' did not match any file(s) known to git
+error: pathspec 'try' did not match any file(s) known to git
+error: pathspec 'again' did not match any file(s) known to git
+error: pathspec 'buttons' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'reset' did not match any file(s) known to git
+error: pathspec 'the' did not match any file(s) known to git
+error: pathspec 'form' did not match any file(s) known to git
+error: pathspec 'for' did not match any file(s) known to git
+error: pathspec 'each' did not match any file(s) known to git
+error: pathspec 'result
+git add . 
+git commit -m add' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'submit' did not match any file(s) known to git
+error: pathspec 'function' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'get' did not match any file(s) known to git
+error: pathspec 'a' did not match any file(s) known to git
+error: pathspec 'value' did not match any file(s) known to git
+error: pathspec 'for' did not match any file(s) known to git
+error: pathspec 'quest5Ans
+git add .
+git commit -m  WIP:' did not match any file(s) known to git
+error: pathspec 'try' did not match any file(s) known to git
+error: pathspec 'to' did not match any file(s) known to git
+error: pathspec 'add' did not match any file(s) known to git
+error: pathspec 'show' did not match any file(s) known to git
+error: pathspec 'functions' did not match any file(s) known to git
+error: pathspec 'for' did not match any file(s) known to git
+error: pathspec 'each' did not match any file(s) known to git
+error: pathspec 'result' did not match any file(s) known to git
+error: pathspec 'for' did not match any file(s) known to git
+error: pathspec 'quest5Ans 
+git add .
+git add .
+git status
+' did not match any file(s) known to git
+michaelburton@Michaels-MacBook-Pro mar-project-2 % git log --oneline
+fatal: your current branch 'main' does not have any commits yet
+michaelburton@Michaels-MacBook-Pro mar-project-2 % git log
+fatal: your current branch 'main' does not have any commits yet
+michaelburton@Michaels-MacBook-Pro mar-project-2 % git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.md
+        css/
+        img/
+        js/
+        license
+
+michaelburton@Michaels-MacBook-Pro mar-project-2 % git log --oneline
+fatal: your current branch 'main' does not have any commits yet
+michaelburton@Michaels-MacBook-Pro mar-project-2 % 
