@@ -29,14 +29,17 @@ $(document).ready(function() {
   $("#again2").click(function(){
     $(".csharpresult").hide();
     $(".main").show();
+    document.getElementById("formOne").reset();
   });
   $("#again3").click(function(){
     $(".rubyresult").hide();
     $(".main").show();
+    document.getElementById("formOne").reset();
   });
   $("#again4").click(function(){
     $(".confusedresult").hide();
     $(".main").show();
+    document.getElementById("formOne").reset();
   });
 });
 
