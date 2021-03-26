@@ -24,6 +24,7 @@ $(document).ready(function() {
   $("#again1").click(function(){
     $(".jsresult").hide();
     $(".main").show();
+    document.getElementById("formOne").reset();
   });
   $("#again2").click(function(){
     $(".csharpresult").hide();
