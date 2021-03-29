@@ -3,9 +3,7 @@ $(document).ready(function() {
     event.preventDefault();
     const dob = $("#born").val();
     const quest5Ans=parseInt($("#qFour").val());
-    console.log("dob: " + dob);
-    console.log(quest5Ans);
-
+   
     if (quest5Ans===1){
       $(".main").hide();
       $(".mainimg").hide();
