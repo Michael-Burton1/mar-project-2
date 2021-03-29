@@ -1,6 +1,11 @@
 body {
   background-color: teal;
 }
+
+img {
+  width:50%;
+  height: auto;
+}
 .mainimg{
   width:100%;
   height:min-content;
