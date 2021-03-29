@@ -19,14 +19,9 @@ _This is the webpage that provides people who dont quite know what computer lang
 2. input these commands into command line:
 
 * cd desktop
-* git clone 
+* git clone https://github.com/Michael-Burton1/mar-project-2.git
 * code .
-
-### To view project in browser you can:
-
-* right click the index.htnl file and open in live browser.  
-OR  
-* copy and paste this URL into your browser:  
+ 
 ## Known Bugs
 
 *_no know bugs_
